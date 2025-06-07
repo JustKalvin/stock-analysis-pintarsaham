@@ -3,7 +3,7 @@ import requests
 import base64
 
 # Ganti ini dengan URL webhook n8n kamu
-WEBHOOK_URL = "https://lioness-eternal-elf.ngrok-free.app/webhook/stockanalysis"
+WEBHOOK_URL = "https://nominally-picked-grubworm.ngrok-free.app/webhook/stockanalysis"
 
 # Judul aplikasi
 st.set_page_config(page_title="Analisis Saham Otomatis", page_icon="📈")
